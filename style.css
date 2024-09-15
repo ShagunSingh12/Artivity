@@ -1,0 +1,16 @@
+/* .navbar{
+    background-color: black;
+    color: aliceblue;
+} */
+
+.images{
+    width: 70%;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+h2{
+    font-family: sans;
+    font-size: 40px;
+   margin-left: 4vh;
+}
